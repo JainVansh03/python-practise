@@ -1,4 +1,6 @@
-#Bank System
+#BankSystem
+
+
 Purpose:
 The Bank class simulates a simple banking system with the following operations:
 
